@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace CatAndMouse
 {
     enum State
