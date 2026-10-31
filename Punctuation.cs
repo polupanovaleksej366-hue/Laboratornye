@@ -17,6 +17,4 @@ public class Punctuation : Token
         _value = value;
     }
     public bool IsSentenceEnd => _value == '.' || _value == '!' || _value == '?';
-    public override bool Equals(object? obj) => obj is Punctuation p && p._value == _value;
-    public override int GetHashCode() => _value.GetHashCode();
 }
