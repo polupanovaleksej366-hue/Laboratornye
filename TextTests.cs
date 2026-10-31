@@ -4,7 +4,7 @@ using TextLab.Models;
 using TextLab.Services;
 namespace TextLab;
 public static class TextTests
-{
+{ 
     public static void RunAll()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
