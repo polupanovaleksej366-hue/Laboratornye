@@ -1,0 +1,6 @@
+﻿Chocolate;Milka;100;55;40
+Chocolate;Lindt;80;45;70
+Candy;ChupaChups;15;12;strawberry
+Candy;Skittles;40;35;fruit
+Marmalade;Haribo;60;40;bear
+Marmalade;BonPar;50;38;lemon
